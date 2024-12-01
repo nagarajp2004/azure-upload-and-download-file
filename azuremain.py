@@ -5,8 +5,8 @@ from io import BytesIO
 
 
 # Azure Storage account details
-azure_account_storage_account = "filestorepg"
-azure_storage_account_key = "1JFjaGrQcqXuqSFIhZB+HCVXdloBjQMq5p8BoPd1SzVljHTuz14jOMSEo1+nWNHtCeqN3abvE/NF+AStNjUqgQ=="
+azure_account_storage_account = "  "
+azure_storage_account_key = "  "
 container = "somedata"
 
 # Function to upload a file to Azure Blob Storage
